@@ -1,0 +1,7 @@
+Project Dashboard URL
+
+Run:
+python -m streamlit run dashboard.py
+
+Open:
+http://localhost:8501
